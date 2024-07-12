@@ -1,3 +1,24 @@
+👨‍💻 Projeto Desenvolvido: API para Biblioteca com NestJS
+
+Estou animado em compartilhar meu último projeto, uma API robusta para gerenciamento de biblioteca, desenvolvida utilizando NestJS! 🚀
+
+Principais Funcionalidades:
+📚 Gerenciamento de Livros: CRUD completo para livros, incluindo detalhes, categorias e status.
+✍️ Autores: CRUD completo para autores, integrando informações biográficas e obras associadas.
+👥 Usuários: Registro, autenticação JWT e gerenciamento de usuários.
+🔒 Autenticação: Implementação de autenticação segura com JWT, garantindo a segurança dos dados.
+📈 Cobertura de Testes: Testes unitários abrangentes com Jest para garantir a confiabilidade da aplicação.
+Tecnologias Utilizadas:
+Backend: NestJS, TypeScript
+Banco de Dados: MongoDB com Mongoose
+Autenticação: JWT
+Testes: Jest
+Containerização: Docker
+Desafios e Aprendizados:
+Integração de módulos complexos e gerenciamento de dependências.
+Implementação de testes unitários e resolução de dependências nos testes.
+Containerização da aplicação com Docker, facilitando o deploy e a escalabilidade.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
